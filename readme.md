@@ -13,6 +13,7 @@ A l'exception de CSS (esthétisme) et de WTF (saisie et validation de Form HTML)
 
 ![Editer un enregistrement](fruits1.png)
 
+<pre>
 mkdir pythonFlask
 cd pythonFlask
 %PYTHON_HOME%\Scripts\virtualenv.exe env
@@ -76,3 +77,4 @@ def hello():
 .\env\Scripts\flask run
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
+</pre>
